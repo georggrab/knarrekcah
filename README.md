@@ -1,6 +1,6 @@
 # knarrekcah
 ## Hackerrank Solutions
-In Jupyter Notebooks, solved using Python 3.
+In Jupyter Notebooks, challenge description, example input and output inlined, solved using Python 3.
 ### Training
 #### Ten Days of Statistics
 
@@ -11,5 +11,11 @@ In Jupyter Notebooks, solved using Python 3.
 | Day 2 | [Probability](ten_days_of_statistics/2_probability.ipynb) |
 | Day 3 | [Conditional Probability (Bayes Theorem)](ten_days_of_statistics/3_conditional_probability.ipynb) |
 | Day 4 | [Binomial and Geometric Distributions](ten_days_of_statistics/4_binomial.ipynb) |
+
+#### Cracking the Coding Interview 
+
+| Challenge | Notebook |
+| --- | --- |
+| Arrays: Left Rotation | [Arrays: Left Rotation](cracking_the_coding_interview/arrays_left_rotation.ipynb) |
 ### (Challenges)
 none so far, just wait!
