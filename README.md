@@ -17,5 +17,6 @@ In Jupyter Notebooks, challenge description, example input and output inlined, s
 | Challenge | Notebook |
 | --- | --- |
 | Arrays: Left Rotation | [Arrays: Left Rotation](cracking_the_coding_interview/arrays_left_rotation.ipynb) |
+| Making Anagrams | [Making Anagrams](cracking_the_coding_interview/making_anagrams.ipynb) |
 ### (Challenges)
 none so far, just wait!
