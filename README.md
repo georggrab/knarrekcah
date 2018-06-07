@@ -19,5 +19,7 @@ In Jupyter Notebooks, challenge description, example input and output inlined, s
 | Arrays: Left Rotation | [Arrays: Left Rotation](cracking_the_coding_interview/arrays_left_rotation.ipynb) |
 | Making Anagrams | [Making Anagrams](cracking_the_coding_interview/making_anagrams.ipynb) |
 | Hash Tables: Ransom | [Hash Tables: Ransom](cracking_the_coding_interview/hash_tables_ransom_note.ipynb) |
+| Trees: Is This a Binary Search Tree? | [BST Checking](cracking_the_coding_interview/trees_is_this_a_bst.ipynb) |
+
 ### (Challenges)
 none so far, just wait!
